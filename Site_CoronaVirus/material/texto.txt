@@ -1,0 +1,46 @@
+Qual é o seu perfil?
+Por Idade
+
+Idade entre 18 e 19 anos com ou sem comorbidade
+Idade entre 20 e 24 anos com ou sem comorbidade
+Idade entre 25 e 29 anos com ou sem comorbidade
+Idade entre 30 e 34 anos com ou sem comorbidade
+Idade entre 35 e 39 anos com ou sem comorbidade
+Idade entre 40 e 44 anos com ou sem comorbidade
+Idade entre 45 e 49 anos com ou sem comorbidade
+Idade entre 50 e 54 anos com ou sem comorbidade
+Idade entre 55 e 59 anos com ou sem comorbidade
+Idade entre 60 e 64 anos 
+Idade entre 65 e 74 anos 
+Idade a partir de 75 anos 
+
+Por Categoria Profissional
+
+Forças de Segurança e Salvamento e Forças Armadas 
+Profissionais de Assistência Social 
+Trabalhadores da Educação 
+Trabalhadores da Saúde 
+Trabalhadores da limpeza urbana e manejo de resíduos sólidos 
+Trabalhadores de transporte coletivo rodoviário de passageiros 
+Trabalhadores Industriais
+Trabalhadores de Transporte Metroviário e Ferroviário 
+Trabalhadores de Transporte Aéreo 
+Trabalhadores de Transporte Aquaviário 
+Trabalhadores Portuários 
+Caminhoneiros 
+
+Por Etnia
+
+População Indígena Aldeada 
+População Indígena Urbana 
+População Quilombola 
+
+Por Grupos Especiais
+
+Deficientes acamados com lesão medular grave acima de 18 anos 
+Gestante em qualquer período gestacional 
+Idosos em instituições de longa permanência 
+Pessoas com comorbidades a partir dos 18 anos
+Pessoas com comorbidades a partir de 60 anos
+Pessoas com Deficiência Permanente a partir dos 18 anos - Limitações Físicas e Motoras 
+Puérperas até 45 dias após parto
